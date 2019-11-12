@@ -108,6 +108,7 @@
         background-position: left 100px;
         padding-top: 105px;
         padding-bottom: 65px;
+        background-size: 50%;
     }
 
     .form-group {
@@ -130,7 +131,7 @@
         order: 1;
         flex-direction: row;
         width: 488px;
-        padding-left: 0px;
+        padding-left: 55px;
     }
 
     .about-wrapper {
@@ -160,6 +161,7 @@
 
     .footer {
         padding-top: 55px;
+       
     }
 
     .footer__copyright {

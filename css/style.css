@@ -99,6 +99,10 @@ header {
 
 }
 
+.tagline span {
+    font-weight: 700;
+}
+
 .tagline::after {
     content: "";
     left: 57px;
@@ -776,7 +780,7 @@ text-decoration: underline;
 .footer {
     padding-top: 55px;
     padding-top: 0;
-    padding-bottom: 120px;
+    padding-bottom: 35px;
    
 }
 
